@@ -1,2 +1,2 @@
-# GOogle home page
+# Google home page
 A simple Google Website Front-end using HTML 
